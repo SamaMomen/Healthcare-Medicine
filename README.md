@@ -42,3 +42,10 @@ Open `breast_cancer_analysis.ipynb` in any Jupyter environment to see the full a
 - Models are saved with `joblib` for the Streamlit app.
 - The notebook and the Python script contain the complete reproducible pipeline.
 - ....
+
+# Breast Cancer ML Project
+
+## Live Demo
+You can try the deployed Streamlit application here:
+
+[Open the Streamlit App](https://healthcare-medicine-yj59zxsafs6hvrppv2hatj.streamlit.app/)
