@@ -1,5 +1,0 @@
-Model,Best Params,Accuracy,Precision,Recall,F1-Score,ROC-AUC
-SVM (RBF) (Tuned),"{'C': 10, 'gamma': 0.01}",0.9824561403508771,1.0,0.9523809523809523,0.975609756097561,0.996031746031746
-Random Forest (Tuned),"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}",0.9736842105263158,1.0,0.9285714285714286,0.9629629629629629,0.9928902116402116
-XGBoost (Tuned),"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 200}",0.9736842105263158,1.0,0.9285714285714286,0.9629629629629629,0.9937169312169313
-Logistic Regression (Tuned),"{'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}",0.9649122807017544,0.975,0.9285714285714286,0.9512195121951219,0.996031746031746
