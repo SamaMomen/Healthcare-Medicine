@@ -15,3 +15,18 @@
 
 **Date**: 2026
 
+---
+
+## 🎯 Model 2 — Cancer Staging (`cancer_stage`)
+
+*(Applied strictly to patients with `cancer_presence = 1`)*
+
+### 🧬 Features
+```python
+features_m2 = features_m1 + [
+    "EGFR_mutation_status",
+    "KRAS_mutation_status",
+    "ALK_fusion_status",
+    "PD-L1_expression_level",
+    "tumor_mutational_burden"
+]
